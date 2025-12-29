@@ -617,6 +617,13 @@
           "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/cinza3.jpeg",
           "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/cinza4.jpeg"
         ]
+      },
+      {
+        "cor": "#8ac0e2",
+        "fotos":[
+          "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/azulclaro1.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/azulclaro2.jpeg"
+        ]
       }
     ]  
 }
