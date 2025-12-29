@@ -629,7 +629,7 @@
 },
 {
 "id": 16,
-  "nome": "Conjunto Denin Tears",
+  "nome": "Conjunto Denim Tears",
   "categoria": "Conjunto",
   "preco": 214.90,
   "imagemPrincipal": "assets/imagens/produtos/Conjuntos/ConjuntoDeninTears/capa.jpeg",
@@ -677,21 +677,115 @@
 },
 {
   "id": 17,
-  "nome": "Conjunto Denin Tears Frio",
+  "nome": "Conjunto Denim Tears Frio",
   "categoria": "Conjunto",
   "preco": 214.90,
-  "imagemPrincipal": "assets/imagens/produtos/Conjuntos/ConjuntoDeninTears/capa.jpeg",
+  "imagemPrincipal": "assets/imagens/produtos/Conjuntos/ConjuntoDeninTearsFrio/capa.jpeg",
   "variantes": [
+       { 
+        "cor": "#5a5454", 
+        "fotos": [
+           "assets/imagens/produtos/Conjuntos/ConjuntoDeninTearsFrio/detalhe1.jpeg",
+           "assets/imagens/produtos/Conjuntos/ConjuntoDeninTearsFrio/detalhe2.jpeg",
+           "assets/imagens/produtos/Conjuntos/ConjuntoDeninTearsFrio/detalhe3.jpeg"
+        ] 
+      },
+      { 
+        "cor": "black", 
+        "fotos": [
+          "assets/imagens/produtos/Conjuntos/ConjuntoDeninTearsFrio/capa.jpeg"
+        ] 
+      },
+      { 
+        "cor": "#a8a8a8", 
+        "fotos": [
+          "assets/imagens/produtos/Conjuntos/ConjuntoDeninTearsFrio/cinzalight1.jpeg"
+        ] 
+      },
+      { 
+        "cor": "#99c6dd", 
+        "fotos": [
+          "assets/imagens/produtos/Conjuntos/ConjuntoDeninTearsFrio/skyblue1.jpeg"
+        ] 
+      },
+      { 
+        "cor": "blue", 
+        "fotos": [
+          "assets/imagens/produtos/Conjuntos/ConjuntoDeninTearsFrio/royalblue1.png"
+        ] 
+      },
+       { 
+        "cor": "pink", 
+        "fotos": [
+          "assets/imagens/produtos/Conjuntos/ConjuntoDeninTearsFrio/pink1.jpeg"
+        ] 
+      },
        { 
         "cor": "red", 
         "fotos": [
-         "assets/imagens/produtos/Conjuntos/ConjuntoDeninTears/red1.jpeg",
-         "assets/imagens/produtos/Conjuntos/ConjuntoDeninTears/red2.jpeg",
-         "assets/imagens/produtos/Conjuntos/ConjuntoDeninTears/red3.jpeg"
-        
+          "assets/imagens/produtos/Conjuntos/ConjuntoDeninTearsFrio/red1.jpeg"
         ] 
-      }]
+      },
+       { 
+        "cor": "#458cc5", 
+        "fotos": [
+          "assets/imagens/produtos/Conjuntos/ConjuntoDeninTearsFrio/blue1.jpeg"
+        ] 
+      }
+      
+      
+      
+    
+    
+    ]
 
+},
+{
+  "id": 18,
+  "nome": "Camiseta Time Cortez",
+  "categoria": "Camiseta",
+  "preco": 234.90,
+  "imagemPrincipal": "assets/imagens/produtos/Blusas/CamisetaTimeCortez/cortezTimeCapa1.jpeg",
+  "variantes": [
+       { 
+        "cor": "#blue", 
+        "fotos": [
+       "assets/imagens/produtos/Blusas/CamisetaTimeCortez/cortezTimeCapa1.jpeg",
+       "assets/imagens/produtos/Blusas/CamisetaTimeCortez/1.jpeg",
+       "assets/imagens/produtos/Blusas/CamisetaTimeCortez/2.jpeg"
+        ] 
+      },
+      { 
+        "cor": "black", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/CamisetaTimeCortez/black1.jpeg"
+        ] 
+      },
+      { 
+        "cor": "red", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/CamisetaTimeCortez/red1.jpeg"
+        ] 
+      },
+      { 
+        "cor": "gray", 
+        "fotos": [
+         "assets/imagens/produtos/Blusas/CamisetaTimeCortez/gray1.jpeg"
+        ] 
+      },
+      { 
+        "cor": "white", 
+        "fotos": [
+         "assets/imagens/produtos/Blusas/CamisetaTimeCortez/white1.jpeg"
+        ] 
+      },
+       { 
+        "cor": "yellow", 
+        "fotos": [
+         "assets/imagens/produtos/Blusas/CamisetaTimeCortez/yellow.jpeg"
+        ] 
+      }
+    ]
 }
 
 ]
