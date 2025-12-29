@@ -679,7 +679,7 @@
   "id": 17,
   "nome": "Conjunto Denim Tears Frio",
   "categoria": "Conjunto",
-  "preco": 214.90,
+  "preco": 219.90,
   "imagemPrincipal": "assets/imagens/produtos/Conjuntos/ConjuntoDeninTearsFrio/capa.jpeg",
   "variantes": [
        { 
@@ -786,6 +786,9 @@
         ] 
       }
     ]
+},
+{
+  
 }
 
 ]
