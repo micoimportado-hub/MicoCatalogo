@@ -626,7 +626,72 @@
         ]
       }
     ]  
-}
+},
+{
+"id": 16,
+  "nome": "Conjunto Denin Tears",
+  "categoria": "Conjunto",
+  "preco": 214.90,
+  "imagemPrincipal": "assets/imagens/produtos/Conjuntos/ConjuntoDeninTears/capa.jpeg",
+  "variantes": [
+       { 
+        "cor": "red", 
+        "fotos": [
+         "assets/imagens/produtos/Conjuntos/ConjuntoDeninTears/red1.jpeg",
+         "assets/imagens/produtos/Conjuntos/ConjuntoDeninTears/red2.jpeg",
+         "assets/imagens/produtos/Conjuntos/ConjuntoDeninTears/red3.jpeg"
+        
+        ] 
+      },
+        { 
+        "cor": "#303344", 
+        "fotos": [
+         "assets/imagens/produtos/Conjuntos/ConjuntoDeninTears/Darkblue1.jpeg"
+        ] 
+      },
+      { 
+        "cor": "gray", 
+        "fotos": [
+         "assets/imagens/produtos/Conjuntos/ConjuntoDeninTears/gray1.jpeg"
+        ] 
+      },
+      { 
+        "cor": "#446258", 
+        "fotos": [
+         "assets/imagens/produtos/Conjuntos/ConjuntoDeninTears/verdemusgo1.jpeg"
+        ] 
+      },
+      { 
+        "fotos": [
+         "assets/imagens/produtos/Conjuntos/ConjuntoDeninTears/multicolor1.jpeg",
+         "assets/imagens/produtos/Conjuntos/ConjuntoDeninTears/multicolor2.jpeg",
+         "assets/imagens/produtos/Conjuntos/ConjuntoDeninTears/multicolor3.jpeg"
+        ] 
+      }
+
+
+
 
  
+]
+},
+{
+  "id": 17,
+  "nome": "Conjunto Denin Tears Frio",
+  "categoria": "Conjunto",
+  "preco": 214.90,
+  "imagemPrincipal": "assets/imagens/produtos/Conjuntos/ConjuntoDeninTears/capa.jpeg",
+  "variantes": [
+       { 
+        "cor": "red", 
+        "fotos": [
+         "assets/imagens/produtos/Conjuntos/ConjuntoDeninTears/red1.jpeg",
+         "assets/imagens/produtos/Conjuntos/ConjuntoDeninTears/red2.jpeg",
+         "assets/imagens/produtos/Conjuntos/ConjuntoDeninTears/red3.jpeg"
+        
+        ] 
+      }]
+
+}
+
 ]
