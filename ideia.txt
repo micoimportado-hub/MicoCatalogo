@@ -1,0 +1,15 @@
+no json se o produto tiver uma cor so use esse modelo: "galeria": [
+      "assets/imagens/produtos/Tenis/Nike_Kaws/1.jpeg",
+      "assets/imagens/produtos/Tenis/Nike_Kaws/2.jpeg",
+      "assets/imagens/produtos/Tenis/Nike_Kaws/3.jpeg",
+      "assets/imagens/produtos/Tenis/Nike_Kaws/4.jpeg"
+    ]
+
+    ao oposto dessa condicao use: "variantes": [
+      { 
+        "cor": "red", 
+        "fotos": [
+          "assets/imagens/produtos/vermelho_1.jpg", 
+          "assets/imagens/produtos/vermelho_2.jpg"
+        ] 
+      }]

@@ -1,0 +1,575 @@
+[
+  {
+    "id": 1,
+    "nome": "Tênis Air Jordan 4 Kaws",
+    "categoria": "Tênis",
+    "preco": 399.99,
+    "imagemPrincipal": "assets/imagens/produtos/Tenis/Nike_Kaws/NikeKawscapa.jpeg",
+    "variantes": [
+      { 
+        "cor": "gray", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/Nike_Kaws/cinza1.jpeg", 
+          "assets/imagens/produtos/Tenis/Nike_Kaws/cinza2.jpeg",
+          "assets/imagens/produtos/Tenis/Nike_Kaws/cinza3.jpeg",
+          "assets/imagens/produtos/Tenis/Nike_Kaws/cinza4.jpeg"
+        ] 
+      },
+      { 
+        "cor": "black", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/Nike_Kaws/preta1.jpeg"
+        ] 
+      }
+    ],
+    "instagram": "https://www.instagram.com/micoimporta/"
+},
+  {
+    "id": 2,
+    "nome": "Tênis Air Jordan 4",
+    "categoria": "Tênis",
+    "preco": 349.99,
+    "imagemPrincipal": "assets/imagens/produtos/Tenis/AirJordan4/capa.jpeg",
+    "variantes": [
+      { 
+        "cor": "white", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/AirJordan4/branca1.jpeg", 
+          "assets/imagens/produtos/Tenis/AirJordan4/branca2.jpeg",
+          "assets/imagens/produtos/Tenis/AirJordan4/branca3.jpeg",
+          "assets/imagens/produtos/Tenis/AirJordan4/branca4.jpeg"
+        ] 
+      },
+      { 
+        "cor": "gray", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/AirJordan4/cinza1.jpeg",
+          "assets/imagens/produtos/Tenis/AirJordan4/cinza2.jpeg", 
+          "assets/imagens/produtos/Tenis/AirJordan4/cinza3.jpeg",
+          "assets/imagens/produtos/Tenis/AirJordan4/cinza4.jpeg", 
+          "assets/imagens/produtos/Tenis/AirJordan4/cinza5.jpeg"
+        ] 
+      },
+      { 
+        "cor": "red", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/AirJordan4/vermelho1.jpeg"
+        ] 
+      },
+      { 
+        "cor": "black", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/AirJordan4/preto1.jpeg"
+        ] 
+      },
+      { 
+        "cor": "yellow", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/AirJordan4/yellow1.jpeg"
+        ] 
+      },
+      { 
+        "cor": "gold", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/AirJordan4/gold1.jpeg"
+        ] 
+      },
+      { 
+        "cor": "Darkblue", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/AirJordan4/azuldark1.jpeg"
+        ] 
+      }
+    ],
+    "instagram": "https://www.instagram.com/micoimporta/"
+  },
+    {
+    "id": 3,
+    "nome": "Tênis Air Jordan Travis Low",
+    "categoria": "Tênis",
+    "preco": 369.99,
+    "imagemPrincipal": "assets/imagens/produtos/Tenis/JordanTravis/traviscapa.jpeg",
+    "variantes": [
+      { 
+        "cor": "blue", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/JordanTravis/travisblue1.jpeg",
+          "assets/imagens/produtos/Tenis/JordanTravis/travisblue2.jpeg",
+          "assets/imagens/produtos/Tenis/JordanTravis/travisblue3.jpeg",
+          "assets/imagens/produtos/Tenis/JordanTravis/travisblue4.jpeg",
+          "assets/imagens/produtos/Tenis/JordanTravis/travisblue5.jpeg"
+        ] 
+      },
+      { 
+        "cor": "#433933", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/JordanTravis/travisbrown1.jpeg"
+        ] 
+      },
+      { 
+        "cor": "#5f5e42", 
+        "fotos": [
+         "assets/imagens/produtos/Tenis/JordanTravis/travisgreen1.jpeg"
+        ] 
+      },
+      {
+        "cor": "black",
+        "fotos":[
+          "assets/imagens/produtos/Tenis/JordanTravis/travispreto1.jpeg"
+        ]
+      },
+       {
+        "cor": "yellow",
+        "fotos":[
+          "assets/imagens/produtos/Tenis/JordanTravis/travisyellow1.jpeg"
+        ]
+      }
+
+    ],
+    "instagram": "https://www.instagram.com/micoimporta/"
+},
+{
+  "id": 4,
+  "nome": "Nike Nocta Glide",
+  "categoria": "Tênis",
+  "preco": 349.99,
+  "imagemPrincipal": "assets/imagens/produtos/Tenis/NikeNoctaGlide/NoctaGlideCapa.jpeg",
+  "variantes": [
+      { 
+        "cor": "white", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/NikeNoctaGlide/NoctaGlide1.jpeg",
+          "assets/imagens/produtos/Tenis/NikeNoctaGlide/NoctaGlide2.jpeg",
+          "assets/imagens/produtos/Tenis/NikeNoctaGlide/NoctaGlide3.jpeg",
+          "assets/imagens/produtos/Tenis/NikeNoctaGlide/NoctaGlide4.jpeg",
+          "assets/imagens/produtos/Tenis/NikeNoctaGlide/NoctaGlide5.jpeg",
+          "assets/imagens/produtos/Tenis/NikeNoctaGlide/NoctaGlide6.jpeg"
+        ] 
+      },
+      {
+        "cor": "#231e24", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/NikeNoctaGlide/NoctaGlideAlviNegro1.jpeg"
+        ] 
+      },
+      {
+        "cor": "#dadad8", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/NikeNoctaGlide/NoctaGlideAlviNegroInvertido1.jpeg"
+        ] 
+      },
+        {
+        "cor": "black", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/NikeNoctaGlide/NoctaGlidePreto1.jpeg"
+        ] 
+      },
+      {
+        "cor": "blue", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/NikeNoctaGlide/NoctaGlideBlue1.jpeg"
+        ] 
+      }
+  ] 
+
+},
+{
+  "id": 5,
+  "nome": "Nike Nocta Hot Step 2",
+  "categoria": "Tênis",
+  "preco": 349.99,
+  "imagemPrincipal": "assets/imagens/produtos/Tenis/NikeNoctaHotStep2/capa.jpeg",
+  "variantes": [
+      { 
+        "cor": "white", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/NikeNoctaHotStep2/white1.jpeg",
+          "assets/imagens/produtos/Tenis/NikeNoctaHotStep2/white2.jpeg",
+          "assets/imagens/produtos/Tenis/NikeNoctaHotStep2/white3.jpeg"
+      
+        ] 
+      },
+      {
+        "cor": "black", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/NikeNoctaHotStep2/black1.jpeg",
+          "assets/imagens/produtos/Tenis/NikeNoctaHotStep2/black2.jpeg"
+        ] 
+      },
+      {
+        "cor": "#a2d5a5", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/NikeNoctaHotStep2/greenlight1.jpeg"
+        ] 
+      },
+       {
+        "cor": "#fe6e04", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/NikeNoctaHotStep2/orange1.jpeg"
+        ] 
+      }
+  ] 
+},
+{
+  "id": 5,
+  "nome": "Nike Dunk Travis Scott ",
+  "categoria": "Tênis",
+  "preco": 269.99,
+  "imagemPrincipal": "assets/imagens/produtos/Tenis/DunkTravis/capa.jpeg",
+  "variantes": [
+      { 
+        "cor": "#c0a387", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/DunkTravis/dunkT1.jpeg",
+          "assets/imagens/produtos/Tenis/DunkTravis/dunkT2.jpeg",
+          "assets/imagens/produtos/Tenis/DunkTravis/dunkT3.jpeg"
+        ] 
+      }
+  ] 
+},
+{
+  "id": 6,
+  "nome": "Air Jordan 1 Retro ",
+  "categoria": "Tênis",
+  "preco": 349.90,
+  "imagemPrincipal": "assets/imagens/produtos/Tenis/AirJordan1/capa1.jpeg",
+  "variantes": [
+      { 
+        "cor": "#9a9a98", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/AirJordan1/capa1.jpeg"
+        ] 
+      },
+       { 
+        "cor": "orange", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/AirJordan1/jordan1orange.jpeg",
+          "assets/imagens/produtos/Tenis/AirJordan1/jordan2orange.jpeg",
+          "assets/imagens/produtos/Tenis/AirJordan1/jordan3orange.jpeg"
+        ] 
+      },
+      { 
+        "cor": "#476393", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/AirJordan1/jordan1bluegray.jpeg"
+        ] 
+      },
+      { 
+        "cor": "red", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/AirJordan1/jordan1red.jpeg"
+        ] 
+      },
+      { 
+        "cor": "#b95253", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/AirJordan1/jordan1lightred.jpeg"
+        ] 
+      },
+      { 
+        "cor": "#638fd0", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/AirJordan1/jordan1blue.jpeg"
+        ] 
+      }
+  ] 
+},
+{
+   "id": 7,
+  "nome": "Air Jordan 3",
+  "categoria": "Tênis",
+  "preco": 389.90,
+  "imagemPrincipal": "assets/imagens/produtos/Tenis/AirJordan3/capa.jpeg",
+  "variantes": [
+      { 
+        "cor": "#857d72", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/AirJordan3/Jordan3.jpeg",
+          "assets/imagens/produtos/Tenis/AirJordan3/Jordan3(2).jpeg",
+          "assets/imagens/produtos/Tenis/AirJordan3/Jordan3(3).jpeg",
+          "assets/imagens/produtos/Tenis/AirJordan3/Jordan3(4).jpeg",
+          "assets/imagens/produtos/Tenis/AirJordan3/Jordan3(5).jpeg",
+          "assets/imagens/produtos/Tenis/AirJordan3/Jordan3(6).jpeg" 
+        ] 
+      },
+      { 
+        "cor": "#d8d9db", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/AirJordan3/Jordan3red.jpeg"
+        ] 
+      },
+       { 
+        "cor": "#898289", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/AirJordan3/Jordan3graywhite.jpeg"
+        ] 
+      },
+      { 
+        "cor": "#353537", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/AirJordan3/Jordan3blackgray.jpeg"
+        ] 
+      },
+      { 
+        "cor": "#03356f", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/AirJordan3/Jordan3whiteblue.jpeg"
+        ] 
+      },
+      { 
+        "cor": "black", 
+        "fotos": [
+          "assets/imagens/produtos/Tenis/AirJordan3/Jordan3black.jpeg"
+        ] 
+      }
+    ]
+},
+{
+  "id": 8,
+  "nome": "Timberland Inch 7",
+  "categoria": "Botas",
+  "preco": 379.90,
+  "imagemPrincipal": "assets/imagens/produtos/Tenis/Timberland/Timberlandcapa.png",
+  "variantes": [
+      { 
+        "cor": "#8e6539", 
+        "fotos": [
+        "assets/imagens/produtos/Tenis/Timberland/Timberland1.jpeg",
+        "assets/imagens/produtos/Tenis/Timberland/Timberland2.jpeg",
+        "assets/imagens/produtos/Tenis/Timberland/Timberland3.jpeg",
+        "assets/imagens/produtos/Tenis/Timberland/Timberland4.jpeg",
+        "assets/imagens/produtos/Tenis/Timberland/Timberland5.jpeg"
+        ] 
+      }
+    ]
+},
+{
+  "id": 9,
+  "nome": "Timberland Inch 6",
+  "categoria": "Botas",
+  "preco": 379.90,
+  "imagemPrincipal": "assets/imagens/produtos/Tenis/Timberlandcurto/Timberlandcurto.jpeg",
+  "variantes": [
+      { 
+        "cor": "#b58947", 
+        "fotos": [
+         "assets/imagens/produtos/Tenis/Timberlandcurto/1.jpeg",
+         "assets/imagens/produtos/Tenis/Timberlandcurto/2.jpeg",
+         "assets/imagens/produtos/Tenis/Timberlandcurto/3.jpeg",
+         "assets/imagens/produtos/Tenis/Timberlandcurto/4.jpeg"
+        ] 
+      }]
+},
+{
+  "id": 10,
+  "nome": "Adidas Superstars",
+  "categoria": "Tênis",
+  "preco": 349.90,
+  "imagemPrincipal": "assets/imagens/produtos/Tenis/AdidasSuperstars/capa.png",
+  "variantes": [
+      { 
+        "cor": "#21262c", 
+        "fotos": [
+         "assets/imagens/produtos/Tenis/AdidasSuperstars/1.jpeg",
+         "assets/imagens/produtos/Tenis/AdidasSuperstars/2.jpeg",
+         "assets/imagens/produtos/Tenis/AdidasSuperstars/3.jpeg",
+         "assets/imagens/produtos/Tenis/AdidasSuperstars/4.jpeg"
+        ] 
+      },
+      { 
+        "cor": "#e6e6ee", 
+        "fotos": [
+         "assets/imagens/produtos/Tenis/AdidasSuperstars/white1.jpeg"
+        ] 
+      },
+      { 
+        "cor": "#3f375a", 
+        "fotos": [
+         "assets/imagens/produtos/Tenis/AdidasSuperstars/blackpurple1.jpeg"
+        ] 
+      },
+      { 
+        "cor": "#181b22", 
+        "fotos": [
+         "assets/imagens/produtos/Tenis/AdidasSuperstars/whiteblack1.jpeg"
+        ] 
+      },
+       { 
+        "cor": "#111011", 
+        "fotos": [
+         "assets/imagens/produtos/Tenis/AdidasSuperstars/black1.jpeg"
+        ] 
+      },
+       { 
+        "cor": "#111011", 
+        "fotos": [
+         "assets/imagens/produtos/Tenis/AdidasSuperstars/blackwhite1.jpeg"
+        ] 
+      }
+    ]
+},
+{
+  "id": 11,
+  "nome": "Bape Sta Low",
+  "categoria": "Tênis",
+  "preco": 349.99,
+  "imagemPrincipal": "assets/imagens/produtos/Tenis/BapeStaLow/capa.png",
+  "variantes": [
+      { 
+        "cor": "#b5c2cb", 
+        "fotos": [
+         "assets/imagens/produtos/Tenis/BapeStaLow/1.jpeg",
+         "assets/imagens/produtos/Tenis/BapeStaLow/2.jpeg",
+         "assets/imagens/produtos/Tenis/BapeStaLow/3.jpeg"
+        ] 
+      },
+       { 
+        "cor": "#f0ede6", 
+        "fotos": [
+         "assets/imagens/produtos/Tenis/BapeStaLow/brancored1.jpeg"
+        ] 
+      },
+       { 
+        "cor": "#1954a2", 
+        "fotos": [
+         "assets/imagens/produtos/Tenis/BapeStaLow/blue1.jpeg"
+        ] 
+      },
+      { 
+        "cor": "#4b5580", 
+        "fotos": [
+         "assets/imagens/produtos/Tenis/BapeStaLow/darkblue1.jpeg"
+        ] 
+      },
+      { 
+        "cor": "#53182b", 
+        "fotos": [
+         "assets/imagens/produtos/Tenis/BapeStaLow/marrom1.jpeg"
+        ] 
+      },
+      { 
+        "cor": "black", 
+        "fotos": [
+         "assets/imagens/produtos/Tenis/BapeStaLow/preto1.jpeg"
+        ] 
+      },
+      { 
+        "cor": "#780002", 
+        "fotos": [
+         "assets/imagens/produtos/Tenis/BapeStaLow/vermelho1.jpeg"
+        ] 
+      },
+      { 
+        "cor": "#f1eada", 
+        "fotos": [
+         "assets/imagens/produtos/Tenis/BapeStaLow/blackwhitered1.jpeg"
+        ] 
+      },
+      { 
+        "cor": "red", 
+        "fotos": [
+         "assets/imagens/produtos/Tenis/BapeStaLow/vermelhoclaro1.jpeg"
+        ] 
+      }
+    
+    ]
+},
+{
+  "id": 12,
+  "nome": "Polo Nike Slin Fit 235",
+  "categoria": "Camiseta",
+  "preco": 234.99,
+  "imagemPrincipal": "assets/imagens/produtos/Blusas/NikeSlinFit/capa.jpeg",
+  "variantes": [
+      { 
+        "cor": "white", 
+        "fotos": [
+         "assets/imagens/produtos/Blusas/NikeSlinFit/1.jpeg",
+         "assets/imagens/produtos/Blusas/NikeSlinFit/2.jpeg"
+        ] 
+      },
+      { 
+        "cor": "black", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/NikeSlinFit/black1.jpeg"
+        ] 
+      },
+      { 
+        "cor": "#2e3758", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/NikeSlinFit/blue1.jpeg"
+        ] 
+      },
+      { 
+        "cor": "gray", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/NikeSlinFit/cinza1.jpeg"
+        ] 
+      }
+    ]
+},
+{
+  "id": 13,
+  "nome": "Camiseta Cortez",
+  "categoria": "Camiseta",
+  "preco": 234.99,
+  "imagemPrincipal": "assets/imagens/produtos/Blusas/CamisaCortez/capa.png",
+  "variantes": [
+      { 
+        "cor": "gray", 
+        "fotos": [
+         "assets/imagens/produtos/Blusas/CamisaCortez/camisetadetalhes1.jpeg",
+         "assets/imagens/produtos/Blusas/CamisaCortez/camisetadetalhes2.jpeg"
+        ] 
+      },
+       { 
+        "cor": "black", 
+        "fotos": [
+         "assets/imagens/produtos/Blusas/CamisaCortez/black1.jpeg",
+         "assets/imagens/produtos/Blusas/CamisaCortez/black2.jpeg",
+         "assets/imagens/produtos/Blusas/CamisaCortez/black3.jpeg",
+         "assets/imagens/produtos/Blusas/CamisaCortez/black4.jpeg",
+         "assets/imagens/produtos/Blusas/CamisaCortez/black5.jpeg",
+         "assets/imagens/produtos/Blusas/CamisaCortez/black6.jpeg",
+         "assets/imagens/produtos/Blusas/CamisaCortez/black7.jpeg",
+         "assets/imagens/produtos/Blusas/CamisaCortez/black8.jpeg",
+         "assets/imagens/produtos/Blusas/CamisaCortez/black9.jpeg",
+         "assets/imagens/produtos/Blusas/CamisaCortez/black10.jpeg"
+        ] 
+      }  
+    ]
+},
+{
+"id": 14,
+  "nome": "Camiseta Bape",
+  "categoria": "Camiseta",
+  "preco": 244.90,
+  "imagemPrincipal": "assets/imagens/produtos/Blusas/CamisetaBape/capa.jpeg",
+  "variantes": [
+       { 
+        "cor": "white", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/CamisetaBape/1.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaBape/2.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaBape/3.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaBape/4.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaBape/brancoBluecamu.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaBape/brancocamu.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaBape/brancoRedcamu.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaBape/brancoRed.jpeg"
+        ] 
+      },
+       { 
+        "cor": "black", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/CamisetaBape/PretoBlueCamu.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaBape/PretoCamu.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaBape/MulticolorsBape1.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaBape/MulticolorsBape2.jpeg" 
+        ] 
+      }
+    ]  
+}
+
+ 
+]

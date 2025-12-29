@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MicoImporta</title>
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- HERO -->
+  <header class="hero">
+    <div class="conteudo-hero reveal">
+      <img src="imagens/Logo.jpeg" alt="Logo MicoImporta" class="logo" />
+
+      <h1 class="titulo-hero">MicoImporta</h1>
+
+      <p class="texto-hero">
+        Importação direta, humana e sem complicação.
+      </p>
+
+      <a href="#catalogo" class="botao">Ver catálogo</a>
+    </div>
+  </header>
+
+  <!-- SOBRE -->
+  <section class="secao sobre reveal">
+    <h2>Quem somos</h2>
+    <p>
+      A MicoImporta seleciona produtos importados com critério,
+      resolve tudo direto no Instagram e sem enrolação.
+    </p>
+  </section>
+
+  <!-- CATÁLOGO -->
+  <section class="secao catalogo reveal" id="catalogo">
+    <h2>Catálogo</h2>
+
+    <div id="container-filtros" class="container-filtros"></div>
+
+    <div class="container-catalogo">
+       <button class="botao-rolar esquerda">‹</button>
+       <div class="linha-produtos" id="lista-produtos"></div>
+       <button class="botao-rolar direita">›</button>
+    </div>
+  </section>
+
+  <!-- DETALHE DO PRODUTO -->
+  <section class="secao detalhe-produto" id="produto-detalhe">
+    <button class="botao-voltar">← Voltar</button>
+    
+    <h2 id="detalhe-titulo"></h2>
+    
+    <div class="cores-selecao">
+      <span>Cores disponíveis:</span>
+      <div id="detalhe-cores" class="lista-cores"></div>
+    </div>
+
+    <div class="galeria-detalhe" id="detalhe-galeria"></div>
+    
+    <a id="detalhe-instagram" target="_blank" class="botao">
+      Falar no Instagram
+    </a>
+  </section>
+  
+  <!-- CTA -->
+  <section class="secao cta reveal">
+    <div class="cta-conteudo">
+      <h2>Gostou de algo?</h2>
+      <p>Chama a MicoImporta no Direct do Instagram!</p>
+      <a href="https://instagram.com/micoimporta" target="_blank" class="botao">
+        Falar com a MicoImporta
+      </a>
+    </div>
+  </section>
+
+  <footer class="rodape">
+    <p>© 2025 MicoImporta</p>
+  </footer>
+
+  <script src="catalogo.js"></script>
+</body>
+</html>

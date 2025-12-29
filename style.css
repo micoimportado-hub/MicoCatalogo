@@ -1,0 +1,495 @@
+
+
+/* --- RESET & VARIÁVEIS --- */
+:root {
+  --cor-fundo: #121214; /* Preto levemente azulado/cinza (mais moderno) */
+  --cor-surface: #202024;
+  --cor-destaque-pri: #f2b705; /* Amarelo da marca */
+  --cor-destaque-sec: #1db954; /* Verde da marca */
+  --cor-texto: #e1e1e6;
+  --cor-texto-sec: #a8a8b3;
+  --sombra: 0 4px 10px rgba(0, 0, 0, 0.3);
+  --transicao: all 0.3s ease;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background-color: var(--cor-fundo);
+  color: var(--cor-texto);
+  line-height: 1.6;
+  overflow-x: hidden; /* Evita scroll lateral na animação */
+}
+
+/* --- HERO (CABEÇALHO) --- */
+.hero {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  position: relative;
+  /* Gradiente mais suave e moderno */
+  background: 
+    radial-gradient(circle at 10% 20%, rgba(242, 183, 5, 0.15) 0%, transparent 40%),
+    radial-gradient(circle at 90% 80%, rgba(29, 185, 84, 0.15) 0%, transparent 40%);
+}
+
+.conteudo-hero {
+  text-align: center;
+  max-width: 800px;
+  z-index: 2;
+}
+
+.logo {
+  width: 140px;
+  border-radius: 20px;
+  box-shadow: 0 8px 20px rgba(242, 183, 5, 0.2);
+  margin-bottom: 1.5rem;
+  transition: var(--transicao);
+}
+
+.logo:hover {
+  transform: rotate(-3deg) scale(1.05);
+}
+
+.titulo-hero {
+  font-size: clamp(2.5rem, 8vw, 4rem);
+  font-weight: 800;
+  line-height: 1.1;
+  background: linear-gradient(90deg, #fff, var(--cor-destaque-pri));
+  -webkit-background-clip: text; 
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 1rem;
+}
+
+.texto-hero {
+  font-size: 1.2rem;
+  color: var(--cor-texto-sec);
+  margin-bottom: 2.5rem;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* --- SEÇÕES GERAIS --- */
+.secao {
+  padding: 5rem 1.5rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.secao h2 {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  border-left: 4px solid var(--cor-destaque-pri);
+  padding-left: 1rem;
+}
+
+/* --- BOTÕES --- */
+.botao {
+  display: inline-block;
+  padding: 1rem 2rem;
+  background: var(--cor-destaque-pri);
+  color: #121214;
+  border-radius: 50px;
+  text-decoration: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-size: 0.9rem;
+  transition: var(--transicao);
+  box-shadow: 0 4px 15px rgba(242, 183, 5, 0.3);
+  border: none;
+  cursor: pointer;
+}
+
+.botao:hover {
+  transform: translateY(-4px);
+  background: #ffc926;
+  box-shadow: 0 8px 25px rgba(242, 183, 5, 0.5);
+}
+
+/* --- CATÁLOGO & CARDS --- */
+.container-catalogo {
+  position: relative;
+  padding: 1rem 0;
+}
+
+.linha-produtos {
+  display: flex;
+  gap: 1.5rem;
+  overflow-x: auto;
+  padding: 1rem 0.5rem 2rem; /* Espaço extra embaixo para a sombra */
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Scrollbar fina e estilizada */
+.linha-produtos::-webkit-scrollbar {
+  height: 8px;
+}
+.linha-produtos::-webkit-scrollbar-track {
+  background: rgba(255,255,255,0.05);
+  border-radius: 4px;
+}
+.linha-produtos::-webkit-scrollbar-thumb {
+  background: var(--cor-destaque-pri);
+  border-radius: 4px;
+}
+
+.card-produto {
+  min-width: 280px;
+  max-width: 300px;
+  background: rgba(32, 32, 36, 0.6); /* Fundo semi-transparente */
+  backdrop-filter: blur(10px); /* Efeito de vidro fosco */
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 20px;
+  cursor: pointer;
+  scroll-snap-align: center;
+  transition: var(--transicao);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-produto:hover {
+  transform: translateY(-8px);
+  border-color: var(--cor-destaque-pri);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+}
+
+/* Ajuste da imagem dentro do card */
+.card-produto .img-container {
+  width: 100%;
+  height: 250px; /* Altura fixa para alinhar */
+  overflow: hidden;
+}
+
+.card-produto img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+.card-produto:hover img {
+  transform: scale(1.1); /* Zoom suave na imagem ao passar o mouse */
+}
+
+.info-produto {
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.info-produto h3 {
+  font-size: 1.2rem;
+  color: #fff;
+}
+
+.info-produto span {
+  font-size: 0.9rem;
+  color: var(--cor-destaque-pri);
+  font-weight: 600;
+}
+
+/* --- BOTÕES DE NAVEGAÇÃO (SETAS) --- */
+.botao-rolar {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: #fff;
+  font-size: 1.5rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  border-radius: 50%;
+  cursor: pointer;
+  z-index: 10;
+  transition: var(--transicao);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.botao-rolar:hover {
+  background: var(--cor-destaque-pri);
+  color: #121214;
+}
+
+.botao-rolar.esquerda { left: -1rem; }
+.botao-rolar.direita { right: -1rem; }
+
+/* Em telas pequenas, escondemos as setas pois o touch é melhor */
+@media (max-width: 768px) {
+  .botao-rolar { display: none; }
+}
+
+/* --- DETALHE DO PRODUTO (MODAL/SEÇÃO) --- */
+.detalhe-produto {
+  display: none; /* JS controla isso */
+  background: var(--cor-surface);
+  margin-top: 2rem;
+  border-radius: 20px;
+  animation: fadeIn 0.5s ease;
+}
+
+.detalhe-produto.ativo {
+  display: block;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.botao-voltar {
+  background: transparent;
+  border: none;
+  color: var(--cor-destaque-pri);
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: var(--transicao);
+}
+
+.botao-voltar:hover {
+  color: #fff;
+  transform: translateX(-5px);
+}
+
+.galeria-detalhe {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.galeria-detalhe img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,0.1);
+}
+
+/* --- CTA (CHAMADA PARA AÇÃO) --- */
+.cta {
+  text-align: center;
+  background: linear-gradient(180deg, transparent 0%, rgba(242, 183, 5, 0.05) 100%);
+  border-radius: 20px 20px 0 0;
+}
+
+.cta-conteudo h2 {
+  font-size: 2.5rem;
+  border: none;
+  padding: 0;
+}
+
+/* --- RODAPÉ --- */
+.rodape {
+  text-align: center;
+  padding: 2rem;
+  background: #0d0d0f;
+  border-top: 1px solid rgba(255,255,255,0.05);
+  color: var(--cor-texto-sec);
+  font-size: 0.9rem;
+}
+
+/* --- ANIMAÇÃO DE REVEAL (JS) --- */
+.reveal {
+  opacity: 0;
+  transform: translateY(60px) scale(0.95); /* Começa um pouco menor e mais abaixo */
+  transition: opacity 0.8s ease-out, transform 0.8s cubic-bezier(0.25, 1, 0.5, 1);
+  will-change: opacity, transform; /* Melhora performance */
+}
+
+.reveal.ativo {
+  opacity: 1;
+  transform: translateY(0) scale(1);
+}
+
+/* --- FILTROS --- */
+.container-filtros {
+  display: flex;
+  gap: 0.8rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap; /* Em PC quebra linha */
+  justify-content: center;
+}
+
+/* Se for celular, permite rolar lateralmente os botões */
+@media (max-width: 768px) {
+  .container-filtros {
+    justify-content: flex-start;
+    overflow-x: auto;
+    padding-bottom: 0.5rem;
+    flex-wrap: nowrap;
+  }
+  /* Esconde barra de rolagem dos filtros */
+  .container-filtros::-webkit-scrollbar { display: none; }
+}
+
+.botao-filtro {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: #a8a8b3;
+  padding: 0.6rem 1.2rem;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-family: inherit;
+  font-size: 0.9rem;
+  white-space: nowrap; /* Não deixa o texto quebrar */
+}
+
+.botao-filtro:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+}
+
+.botao-filtro.ativo {
+  background: var(--cor-destaque-pri);
+  color: #121214;
+  border-color: var(--cor-destaque-pri);
+  font-weight: 700;
+}
+
+/* --- NOVO ESTILO DENTRO DO CARD --- */
+.tag-categoria {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: rgba(0,0,0,0.7);
+  color: #fff;
+  font-size: 0.7rem;
+  padding: 4px 8px;
+  border-radius: 4px;
+  backdrop-filter: blur(4px);
+}
+
+.preco {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--cor-destaque-sec); /* Verde para dinheiro */
+  margin: 0.2rem 0;
+}
+
+/* Animação suave ao trocar categorias */
+.fade-in {
+  animation: fadeInCard 0.5s ease forwards;
+}
+
+@keyframes fadeInCard {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Container que segura as fotos nos detalhes */
+.galeria-detalhe {
+  display: flex;
+  gap: 15px;
+  overflow-x: auto; /* Permite deslizar para o lado se tiver muitas fotos */
+  padding: 1rem 0;
+  scroll-snap-type: x mandatory; /* Faz a foto "travar" no meio ao deslizar */
+  -webkit-overflow-scrolling: touch;
+}
+
+/* A Moldura de cada foto individual */
+.galeria-detalhe img {
+  flex: 0 0 85%; /* No celular, cada foto ocupa 85% da largura */
+  max-width: 450px; /* No PC, ela não fica gigante */
+  height: 450px; /* Altura fixa para manter o padrão */
+  object-fit: cover; /* Faz a foto preencher a moldura sem esticar */
+  border-radius: 20px; /* Bordas arredondadas */
+  border: 2px solid rgba(255, 255, 255, 0.1); /* Uma bordinha sutil */
+  scroll-snap-align: center;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.3); /* Sombra para dar profundidade */
+  transition: transform 0.3s ease;
+}
+
+/* Efeito visual ao passar o mouse (PC) */
+.galeria-detalhe img:hover {
+  transform: scale(1.02);
+  border-color: var(--cor-destaque-pri);
+}
+
+/* Personalizando a barra de rolagem da galeria (opcional) */
+.galeria-detalhe::-webkit-scrollbar {
+  height: 6px;
+}
+.galeria-detalhe::-webkit-scrollbar-thumb {
+  background: var(--cor-destaque-pri);
+  border-radius: 10px;
+}
+
+.cores-selecao {
+  margin: 1rem 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.cores-selecao span {
+  color: var(--cor-texto-sec);
+  font-size: 0.9rem;
+  font-weight: bold;
+}
+
+.lista-cores {
+  display: flex;
+  gap: 10px;
+  margin-top: 5px;
+}
+
+.bolinha-cor {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  border: 2px solid rgba(255,255,255,0.3);
+  display: inline-block; /* Garante que a bolinha apareça */
+}
+
+.bolinha-cor:hover {
+  transform: scale(1.2);
+  border-color: var(--cor-destaque-pri);
+}
+
+.fade-in {
+  animation: aparecerSuave 0.5s ease;
+}
+
+@keyframes aparecerSuave {
+  from { opacity: 0; transform: translateY(5px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.bolinha-cor {
+  /* Adicione isso para sabermos que é clicável */
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+#detalhe-instagram:active {
+  transform: scale(0.95);
+  background-color: var(--cor-destaque-sec); /* Muda de amarelo pra verde rapidinho */
+}
+
