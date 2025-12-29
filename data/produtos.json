@@ -569,6 +569,55 @@
         ] 
       }
     ]  
+},
+{
+"id": 15,
+  "nome": "Conjunto Trapstar",
+  "categoria": "Conjunto",
+  "preco": 279.99,
+  "imagemPrincipal": "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/capa.png",
+  "variantes": [
+       { 
+        "cor": "black", 
+        "fotos": [
+        "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/preto1.jpeg",
+        "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/preto2.jpeg",
+        "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/preto3.jpeg",
+        "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/preto4.jpeg",
+        "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/preto5.jpeg",
+        "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/preto6.jpeg",
+        "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/preto7.jpeg",
+        "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/preto8.jpeg",
+        "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/preto9.jpeg",
+        "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/preto10.jpeg",
+        "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/preto11.jpeg",
+        "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/preto12.jpeg",
+        "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/preto13.jpeg",
+        "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/preto14.jpeg",
+        "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/preto15.jpeg"
+        ] 
+      },
+       { 
+        "cor": "white", 
+        "fotos": [
+          "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/branco1.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/branco2.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/branco3.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/branco4.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/branco5.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/branco6.jpeg"
+        ] 
+      },
+      {
+        "cor": "gray",
+        "fotos":[
+          "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/cinza1.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/cinza2.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/cinza3.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoTrapStar/cinza4.jpeg"
+        ]
+      }
+    ]  
 }
 
  
