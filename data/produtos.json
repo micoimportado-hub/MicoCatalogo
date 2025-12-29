@@ -211,7 +211,7 @@
   ] 
 },
 {
-  "id": 5,
+  "id": 6,
   "nome": "Nike Dunk Travis Scott ",
   "categoria": "Tênis",
   "preco": 269.99,
@@ -788,7 +788,161 @@
     ]
 },
 {
-  
+  "id": 19,
+  "nome": "Conjunto Syna",
+  "categoria": "Conjunto",
+  "preco": 279.90,
+  "imagemPrincipal": "assets/imagens/produtos/Conjuntos/ConjuntoSyna/Synacapa1.jpeg",
+  "variantes": [
+       { 
+        "cor": "black", 
+        "fotos": [
+          "assets/imagens/produtos/Conjuntos/ConjuntoSyna/black1.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoSyna/black2.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoSyna/black3.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoSyna/black4.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoSyna/black5.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoSyna/black6.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoSyna/black7.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoSyna/black8.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoSyna/black9.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoSyna/black10.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoSyna/black11.jpeg"
+        ] 
+      },
+       { 
+        "cor": "white", 
+        "fotos": [
+          "assets/imagens/produtos/Conjuntos/ConjuntoSyna/white1.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoSyna/white2.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoSyna/white3.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoSyna/white4.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoSyna/white5.jpeg"
+        ] 
+      },
+      { 
+        "cor": "gray", 
+        "fotos": [
+          "assets/imagens/produtos/Conjuntos/ConjuntoSyna/gray1.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoSyna/gray2.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoSyna/gray3.jpeg"
+        ] 
+      },
+        { 
+        "cor": "green", 
+        "fotos": [
+          "assets/imagens/produtos/Conjuntos/ConjuntoSyna/verdeclaro1.jpeg"
+        ] 
+      },
+       { 
+        "cor": "Darkgreen", 
+        "fotos": [
+          "assets/imagens/produtos/Conjuntos/ConjuntoSyna/verdeescuro1.jpeg"
+        ] 
+      },
+      { 
+        "cor": "red", 
+        "fotos": [
+          "assets/imagens/produtos/Conjuntos/ConjuntoSyna/red1.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoSyna/red2.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoSyna/red3.jpeg"
+        ] 
+      },
+      { 
+        "cor": "#1160c3", 
+        "fotos": [
+          "assets/imagens/produtos/Conjuntos/ConjuntoSyna/blue1.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoSyna/blue2.jpeg"
+        ] 
+      },
+       { 
+        "cor": "#96cbe7", 
+        "fotos": [
+          "assets/imagens/produtos/Conjuntos/ConjuntoSyna/lightblue1.jpeg"
+        ] 
+      }
+    ]
+},
+{
+   "id": 20,
+  "nome": "Camiseta Ralph Lauren",
+  "categoria": "Camiseta",
+  "preco": 229.99,
+  "imagemPrincipal": "assets/imagens/produtos/Blusas/CamisetaRalphLauren/france1capa.jpeg",
+  "variantes": [
+       { 
+        "cor": "#011d4d", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/CamisetaRalphLauren/france1capa.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaRalphLauren/france2.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaRalphLauren/france3.jpeg"
+        ] 
+      },
+       { 
+        "cor": "#37584d", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/CamisetaRalphLauren/milan1.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaRalphLauren/milan2.jpeg"
+        ] 
+      },
+      { 
+        "cor": "#1a1627", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/CamisetaRalphLauren/usa1.jpeg"
+        ] 
+      },
+       { 
+        "cor": "#e3e7ea", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/CamisetaRalphLauren/switz1.jpeg"
+        ] 
+      },
+       { 
+        "cor": "#4e0b0b", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/CamisetaRalphLauren/russia1.jpeg"
+        ] 
+      },
+       { 
+        "cor": "#703795", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/CamisetaRalphLauren/london2.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaRalphLauren/london3.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaRalphLauren/london1.jpeg"
+        ] 
+      },
+      { 
+        "cor": "#15112a", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/CamisetaRalphLauren/ny1.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaRalphLauren/ny2.jpeg"
+        ] 
+      },
+      {
+        "cor":"#03207d",
+        "fotos":[
+           "assets/imagens/produtos/Blusas/CamisetaRalphLauren/noruega1.jpeg"
+        ]
+      },
+      {
+        "cor":"#dbdbe7",
+        "fotos":[
+           "assets/imagens/produtos/Blusas/CamisetaRalphLauren/paris1.jpeg"
+        ]
+      },
+       {
+        "cor":"#0a0a0a",
+        "fotos":[
+           "assets/imagens/produtos/Blusas/CamisetaRalphLauren/tokyo1.jpeg"
+        ]
+      },
+        {
+        "cor":"#191919",
+        "fotos":[
+           "assets/imagens/produtos/Blusas/CamisetaRalphLauren/chicago1.jpeg"
+        ]
+      }
+    ]
 }
 
 ]
