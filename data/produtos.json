@@ -943,6 +943,252 @@
         ]
       }
     ]
+},
+{
+  "id": 21,
+  "nome": "Camiseta Hellstar",
+  "categoria": "Camiseta",
+  "preco": 279.99,
+  "imagemPrincipal": "assets/imagens/produtos/Blusas/CamisetaHellstar/hellstarcapa.jpeg",
+  "variantes": [
+       { 
+        "cor": "#93ab9a", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/CamisetaHellstar/hellstar1.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaHellstar/hellstar2.jpeg"
+        ] 
+      },
+      { 
+        "cor": "#93ab9a", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/CamisetaHellstar/black1.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaHellstar/black2.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaHellstar/black3.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaHellstar/black4.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaHellstar/black5.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaHellstar/black6.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaHellstar/black7.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaHellstar/black8.jpeg"
+        ] 
+      },
+       { 
+        "cor": "white", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/CamisetaHellstar/white1.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaHellstar/white2.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaHellstar/white3.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaHellstar/white4.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaHellstar/white5.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaHellstar/white6.jpeg"
+        ] 
+      },
+       { 
+        "cor": "red", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/CamisetaHellstar/red1.jpeg"
+        ] 
+      },
+      { 
+        "cor": "pink", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/CamisetaHellstar/pink1.jpeg"
+        ] 
+      }
+    ]
+},
+{
+    "id": 21,
+  "nome": "Camiseta Supreme",
+  "categoria": "Camiseta",
+  "preco": 229.99,
+  "imagemPrincipal": "assets/imagens/produtos/Blusas/CamisetaSupreme/shrek1.jpeg",
+  "variantes": [
+       { 
+        "cor": "white", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/CamisetaSupreme/detalhescamisetaS.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaSupreme/shrek1.jpeg",
+          "assets/imagens/produtos/Blusas/CamisetaSupreme/white1.jpeg"
+        ] 
+      },
+      { 
+        "cor": "black", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/CamisetaSupreme/black1.jpeg"
+        ] 
+      }
+    ]
+},
+{
+     "id": 22,
+  "nome": "Camiseta Supreme",
+  "categoria": "Blusa Longa",
+  "preco": 229.99,
+  "imagemPrincipal": "assets/imagens/produtos/Blusas/BlusaSupreme/white1.jpeg",
+  "variantes": [
+       { 
+        "cor": "white", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/BlusaSupreme/detalheBlusaS.jpeg",
+          "assets/imagens/produtos/Blusas/BlusaSupreme/white1.jpeg"
+        ] 
+      },
+      { 
+        "cor": "black", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/BlusaSupreme/black1.jpeg"
+        ] 
+      }
+    ]
+},
+{
+  "id": 23,
+  "nome": "Jaqueta Puffer Trapstar",
+  "categoria": "Blusa Longa",
+  "preco": 299.99,
+  "imagemPrincipal": "assets/imagens/produtos/Blusas/JaquetaPufferTrapstar/capa.jpeg",
+  "variantes": [
+       { 
+        "cor": "#97a4b7", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/JaquetaPufferTrapstar/capa.jpeg",
+          "assets/imagens/produtos/Blusas/JaquetaPufferTrapstar/1.jpeg",
+          "assets/imagens/produtos/Blusas/JaquetaPufferTrapstar/2.jpeg",
+          "assets/imagens/produtos/Blusas/JaquetaPufferTrapstar/3.jpeg",
+          "assets/imagens/produtos/Blusas/JaquetaPufferTrapstar/4.jpeg",
+          "assets/imagens/produtos/Blusas/JaquetaPufferTrapstar/5.jpeg",
+          "assets/imagens/produtos/Blusas/JaquetaPufferTrapstar/6.jpeg"
+        ]
+       },
+       { 
+        "cor": "#11172a", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/JaquetaPufferTrapstar/darkblue1.jpeg"
+        ]
+       },
+       { 
+        "cor": "#c8dae4", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/JaquetaPufferTrapstar/lightblue1.jpeg"
+        ]
+       },
+        { 
+        "cor": "black", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/JaquetaPufferTrapstar/black1.jpeg"
+        ]
+       }
+      ]
+},
+{
+  "id": 24,
+  "nome": "Puffer Nocta x Nike",
+  "categoria": "Blusa Longa",
+  "preco": 499.99,
+  "imagemPrincipal": "assets/imagens/produtos/Blusas/JaquetapufferNikeNocta/capa.jpeg",
+  "variantes": [
+       { 
+        "cor": "yellow", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/JaquetapufferNikeNocta/capa.jpeg",
+          "assets/imagens/produtos/Blusas/JaquetapufferNikeNocta/1.jpeg",
+          "assets/imagens/produtos/Blusas/JaquetapufferNikeNocta/2.jpeg"
+        ]
+       },
+       { 
+        "cor": "black", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/JaquetapufferNikeNocta/black1.jpeg"
+        ]
+       },
+        { 
+        "cor": "white", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/JaquetapufferNikeNocta/white1.jpeg"
+        ]
+       },
+       { 
+        "cor": "gray", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/JaquetapufferNikeNocta/gray1.jpeg"
+        ]
+       }
+      ]
+},
+{
+   "id": 25,
+  "nome": "Jaqueta Puffer Trapstar de Couro",
+  "categoria": "Blusa Longa",
+  "preco": 599.99,
+  "imagemPrincipal": "assets/imagens/produtos/Blusas/JaquetaPufferTrapstarCouro/capa.jpeg",
+  "variantes": [
+       { 
+        "cor": "black", 
+        "fotos": [
+          "assets/imagens/produtos/Blusas/JaquetaPufferTrapstarCouro/capa.jpeg",
+          "assets/imagens/produtos/Blusas/JaquetaPufferTrapstarCouro/capa.jpeg",
+         "assets/imagens/produtos/Blusas/JaquetaPufferTrapstarCouro/capa.jpeg"
+        ]
+       }
+      ]
+},
+{
+  "id": 26,
+  "nome": "Conjunto Corta Vento Syna",
+  "categoria": "Conjunto",
+  "preco": 249.99,
+  "imagemPrincipal": "assets/imagens/produtos/conjuntos/ConjuntoCortaVentoSyna/capagray1.jpeg",
+  "variantes": [
+       { 
+        "cor": "gray", 
+        "fotos": [
+         "assets/imagens/produtos/conjuntos/ConjuntoCortaVentoSyna/capagray1.jpeg",
+         "assets/imagens/produtos/conjuntos/ConjuntoCortaVentoSyna/gray2.jpeg",
+         "assets/imagens/produtos/conjuntos/ConjuntoCortaVentoSyna/gray3.jpeg",
+         "assets/imagens/produtos/conjuntos/ConjuntoCortaVentoSyna/gray4.jpeg"
+        ]
+       },
+        { 
+        "cor": "blue", 
+        "fotos": [
+         "assets/imagens/produtos/conjuntos/ConjuntoCortaVentoSyna/blue1.jpeg",
+         "assets/imagens/produtos/conjuntos/ConjuntoCortaVentoSyna/blue2.jpeg"
+        ]
+       },
+        { 
+        "cor": "#c8243d", 
+        "fotos": [
+         "assets/imagens/produtos/conjuntos/ConjuntoCortaVentoSyna/blackred1.jpeg",
+         "assets/imagens/produtos/conjuntos/ConjuntoCortaVentoSyna/blackred2.jpeg"
+        ]
+       },
+       { 
+        "cor": "black", 
+        "fotos": [
+         "assets/imagens/produtos/conjuntos/ConjuntoCortaVentoSyna/black1.jpeg",
+         "assets/imagens/produtos/conjuntos/ConjuntoCortaVentoSyna/black2.jpeg"
+        ]
+       }
+      ]
+},
+{
+  "id": 27,
+  "nome": "Nike Tech x Syna ",
+  "categoria": "Blusa Longa",
+  "preco": 249.99,
+  "imagemPrincipal": "assets/imagens/produtos/conjuntos/ConjuntoCortaVentoSyna/capagray1.jpeg",
+  "variantes": [
+       { 
+        "cor": "gray", 
+        "fotos": [
+         "assets/imagens/produtos/conjuntos/ConjuntoCortaVentoSyna/capagray1.jpeg",
+         "assets/imagens/produtos/conjuntos/ConjuntoCortaVentoSyna/gray2.jpeg",
+         "assets/imagens/produtos/conjuntos/ConjuntoCortaVentoSyna/gray3.jpeg",
+         "assets/imagens/produtos/conjuntos/ConjuntoCortaVentoSyna/gray4.jpeg"
+        ]
+       }
+      ]
 }
+
 
 ]
