@@ -1386,6 +1386,8 @@
        { 
         "cor": "black", 
         "fotos": [
+         "assets/imagens/produtos/Bermudas/BermudaCortez/detalhes1.jpeg",
+         "assets/imagens/produtos/Bermudas/BermudaCortez/detalhes2.jpeg",
          "assets/imagens/produtos/Bermudas/BermudaCortez/black1.jpeg",
          "assets/imagens/produtos/Bermudas/BermudaCortez/black2.jpeg"
         ]
@@ -1418,15 +1420,27 @@
         ]
        },
        { 
-        "cor": "#cee7ba", 
+        "cor": "#e9488b", 
         "fotos": [
-         "assets/imagens/produtos/Bermudas/BermudaCortez/lightgreen1.jpeg"
+         "assets/imagens/produtos/Bermudas/BermudaCortez/pink1.jpeg"
+        ]
+       },
+       { 
+        "cor": "#323232", 
+        "fotos": [
+         "assets/imagens/produtos/Bermudas/BermudaCortez/blackyellow1.jpeg"
         ]
        },
        { 
         "cor": "#cee7ba", 
         "fotos": [
          "assets/imagens/produtos/Bermudas/BermudaCortez/lightgreen1.jpeg"
+        ]
+       },
+       { 
+        "cor": "yellow", 
+        "fotos": [
+         "assets/imagens/produtos/Bermudas/BermudaCortez/yellow1.jpeg"
         ]
        }
 
