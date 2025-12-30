@@ -1176,19 +1176,265 @@
   "nome": "Nike Tech x Syna ",
   "categoria": "Blusa Longa",
   "preco": 249.99,
-  "imagemPrincipal": "assets/imagens/produtos/conjuntos/ConjuntoCortaVentoSyna/capagray1.jpeg",
+  "imagemPrincipal": "assets/imagens/produtos/Blusas/NiketechSyna/capa.jpeg",
   "variantes": [
        { 
         "cor": "gray", 
         "fotos": [
-         "assets/imagens/produtos/conjuntos/ConjuntoCortaVentoSyna/capagray1.jpeg",
-         "assets/imagens/produtos/conjuntos/ConjuntoCortaVentoSyna/gray2.jpeg",
-         "assets/imagens/produtos/conjuntos/ConjuntoCortaVentoSyna/gray3.jpeg",
-         "assets/imagens/produtos/conjuntos/ConjuntoCortaVentoSyna/gray4.jpeg"
+          "assets/imagens/produtos/Blusas/NiketechSyna/capa.jpeg",
+          "assets/imagens/produtos/Blusas/NiketechSyna/1.jpeg",
+          "assets/imagens/produtos/Blusas/NiketechSyna/2.jpeg",
+          "assets/imagens/produtos/Blusas/NiketechSyna/3.jpeg"
+
+
         ]
        }
       ]
-}
+},
+{
 
+  "id": 28,
+  "nome": "Conjunto Blusa Longa Syna ",
+  "categoria": "Conjunto",
+  "preco": 249.99,
+  "imagemPrincipal": "assets/imagens/produtos/Conjuntos/ConjuntoSynaLongas/1.jpeg",
+  "variantes": [
+       { 
+        "cor": "#737277", 
+        "fotos": [
+          "assets/imagens/produtos/Conjuntos/ConjuntoSynaLongas/1.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoSynaLongas/2.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoSynaLongas/3.jpeg"
+        ]
+       },
+        { 
+        "cor": "#272727", 
+        "fotos": [
+          "assets/imagens/produtos/Conjuntos/ConjuntoSynaLongas/black1.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoSynaLongas/black2.jpeg"
+        ]
+       },
+       { 
+        "cor": "#613627", 
+        "fotos": [
+          "assets/imagens/produtos/Conjuntos/ConjuntoSynaLongas/brown1.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoSynaLongas/brown2.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoSynaLongas/brown3.jpeg"
+        ]
+       },
+        { 
+        "cor": "#b7b3c6", 
+        "fotos": [
+          "assets/imagens/produtos/Conjuntos/ConjuntoSynaLongas/gray1.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoSynaLongas/gray2.jpeg",
+          "assets/imagens/produtos/Conjuntos/ConjuntoSynaLongas/gray3.jpeg"
+        ]
+      }
+    ]
+   },
+   {
+    "id": 29,
+  "nome": "Calças Jeans Denim Tears",
+  "categoria": "Calça",
+  "preco": 249.90,
+  "imagemPrincipal": "assets/imagens/produtos/Calcas/CalcaJeansDenimTears/3.jpeg",
+  "variantes": [
+       { 
+        "cor": "black", 
+        "fotos": [
+        "assets/imagens/produtos/Calcas/CalcaJeansDenimTears/1.jpeg",
+        "assets/imagens/produtos/Calcas/CalcaJeansDenimTears/2.jpeg",
+        "assets/imagens/produtos/Calcas/CalcaJeansDenimTears/3.jpeg"
+        ]
+       },
+       {
+        "cor": "#777992", 
+        "fotos": [
+          "assets/imagens/produtos/Calcas/CalcaJeansDenimTears/jeans1.jpeg"
+        ]
+       } 
+      ]
+   },
+   {
+     "id": 30,
+  "nome": "Bermuda Hellstar",
+  "categoria": "Bermuda",
+  "preco": 259.99,
+  "imagemPrincipal": "assets/imagens/produtos/Bermudas/BermudaHellstar/black1.jpeg",
+  "variantes": [
+       { 
+        "cor": "#484850", 
+        "fotos": [
+         "assets/imagens/produtos/Bermudas/BermudaHellstar/black1.jpeg",
+         "assets/imagens/produtos/Bermudas/BermudaHellstar/black2.jpeg",
+         "assets/imagens/produtos/Bermudas/BermudaHellstar/black3.jpeg",
+         "assets/imagens/produtos/Bermudas/BermudaHellstar/black4.jpeg"
+        ]
+       },
+       { 
+        "cor": "#484850", 
+        "fotos": [
+         "assets/imagens/produtos/Bermudas/BermudaHellstar/grayasfalto1.jpeg"
+        ]
+       },
+       { 
+        "cor": "#1a1f26", 
+        "fotos": [
+         "assets/imagens/produtos/Bermudas/BermudaHellstar/blackblue1.jpeg"
+        ]
+       },
+       { 
+        "cor": "#4f4e4d", 
+        "fotos": [
+         "assets/imagens/produtos/Bermudas/BermudaHellstar/cinzadark1.jpeg"
+        ]
+       },
+       { 
+        "cor": "#262827", 
+        "fotos": [
+         "assets/imagens/produtos/Bermudas/BermudaHellstar/blackatalanta1.jpeg"
+        ]
+       },
+        { 
+        "cor": "#c9dbe7", 
+        "fotos": [
+         "assets/imagens/produtos/Bermudas/BermudaHellstar/lightblue1.jpeg"
+        ]
+       },
+        { 
+        "cor": "#303135", 
+        "fotos": [
+         "assets/imagens/produtos/Bermudas/BermudaHellstar/blackmaluco1.jpeg"
+        ]
+       },
+        { 
+        "cor": "#e9edf6", 
+        "fotos": [
+         "assets/imagens/produtos/Bermudas/BermudaHellstar/whiteatalanta1.jpeg"
+        ]
+       },
+       { 
+        "cor": "#343a40", 
+        "fotos": [
+         "assets/imagens/produtos/Bermudas/BermudaHellstar/blacklilwhite1.jpeg"
+        ]
+       },
+       { 
+        "cor": "#606068", 
+        "fotos": [
+         "assets/imagens/produtos/Bermudas/BermudaHellstar/grayjustatalanta1.jpeg"
+        ]
+       },
+       { 
+        "cor": "#e62d35", 
+        "fotos": [
+         "assets/imagens/produtos/Bermudas/BermudaHellstar/red1.jpeg",
+         "assets/imagens/produtos/Bermudas/BermudaHellstar/red2.jpeg"
+        ]
+       }
+      ]
+   },
+   {
+     "id": 31,
+  "nome": "Bermuda Rhude",
+  "categoria": "Bermuda",
+  "preco": 224.99,
+  "imagemPrincipal": "assets/imagens/produtos/Bermudas/BermudaRhude/capa.jpeg",
+  "variantes": [
+       { 
+        "cor": "#484850", 
+        "fotos": [
+         "assets/imagens/produtos/Bermudas/BermudaRhude/1.jpeg",
+         "assets/imagens/produtos/Bermudas/BermudaRhude/2.jpeg",
+         "assets/imagens/produtos/Bermudas/BermudaRhude/3.jpeg",
+         "assets/imagens/produtos/Bermudas/BermudaRhude/4.jpeg"
+        ]
+       },
+       {
+        "cor": "gray", 
+        "fotos": [
+         "assets/imagens/produtos/Bermudas/BermudaRhude/gray1.jpeg"
+        ]
+       },
+        {
+        "cor": "red", 
+        "fotos": [
+         "assets/imagens/produtos/Bermudas/BermudaRhude/red1.jpeg"
+        ]
+       },
+       {
+        "cor": "white", 
+        "fotos": [
+         "assets/imagens/produtos/Bermudas/BermudaRhude/white1.jpeg"
+        ]
+       },
+       {
+        "cor": "blue", 
+        "fotos": [
+         "assets/imagens/produtos/Bermudas/BermudaRhude/blue1.jpeg"
+        ]
+       }        
+      ]
+   },
+   {
+    "id": 32,
+  "nome": "Bermuda Cortez",
+  "categoria": "Bermuda",
+  "preco": 224.99,
+  "imagemPrincipal": "assets/imagens/produtos/Bermudas/BermudaCortez/black1.jpeg",
+  "variantes": [
+       { 
+        "cor": "black", 
+        "fotos": [
+         "assets/imagens/produtos/Bermudas/BermudaCortez/black1.jpeg",
+         "assets/imagens/produtos/Bermudas/BermudaCortez/black2.jpeg"
+        ]
+       },
+       { 
+        "cor": "gray", 
+        "fotos": [
+         "assets/imagens/produtos/Bermudas/BermudaCortez/cinza1.jpeg",
+         "assets/imagens/produtos/Bermudas/BermudaCortez/cinza2.jpeg"
+        ]
+       },
+       { 
+        "cor": "Darkblue", 
+        "fotos": [
+         "assets/imagens/produtos/Bermudas/BermudaCortez/darkblue1.jpeg",
+         "assets/imagens/produtos/Bermudas/BermudaCortez/darkblue2.jpeg"
+        ]
+       },
+       { 
+        "cor": "#00574f", 
+        "fotos": [
+         "assets/imagens/produtos/Bermudas/BermudaCortez/green1.jpeg"
+        ]
+       },
+        { 
+        "cor": "#6f6647", 
+        "fotos": [
+         "assets/imagens/produtos/Bermudas/BermudaCortez/verdemilitar1.jpeg",
+         "assets/imagens/produtos/Bermudas/BermudaCortez/verdemilitar2.jpeg"
+        ]
+       },
+       { 
+        "cor": "#cee7ba", 
+        "fotos": [
+         "assets/imagens/produtos/Bermudas/BermudaCortez/lightgreen1.jpeg"
+        ]
+       },
+       { 
+        "cor": "#cee7ba", 
+        "fotos": [
+         "assets/imagens/produtos/Bermudas/BermudaCortez/lightgreen1.jpeg"
+        ]
+       }
 
+      ]
+   }
+
+   
+
+     
 ]
+    
