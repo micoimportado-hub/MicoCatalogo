@@ -748,7 +748,7 @@
   "imagemPrincipal": "assets/imagens/produtos/Blusas/CamisetaTimeCortez/cortezTimeCapa1.jpeg",
   "variantes": [
        { 
-        "cor": "#blue", 
+        "cor": "blue", 
         "fotos": [
        "assets/imagens/produtos/Blusas/CamisetaTimeCortez/cortezTimeCapa1.jpeg",
        "assets/imagens/produtos/Blusas/CamisetaTimeCortez/1.jpeg",
