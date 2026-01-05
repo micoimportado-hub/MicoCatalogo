@@ -1445,8 +1445,143 @@
        }
 
       ]
-   }
-
+   },
+    {
+    "id": 33,
+  "nome": "Conjunto Nike Tech Fleece",
+  "categoria": "Conjunto",
+  "preco": 389.99,
+  "imagemPrincipal": "assets/imagens/produtos/Conjuntos/ConjuntoNikeTechFleece/capa.png",
+  "variantes": [
+       { 
+        "cor": "#a29e9d", 
+        "fotos": [
+         "assets/imagens/produtos/Conjuntos/ConjuntoNikeTechFleece/cinzaClaro.png"
+        ]
+      },
+       { 
+        "cor": "#516484", 
+        "fotos": [
+         "assets/imagens/produtos/Conjuntos/ConjuntoNikeTechFleece/cinzaEscuro.png"
+        ]
+      },
+       { 
+        "cor": "#8a9496", 
+        "fotos": [
+         "assets/imagens/produtos/Conjuntos/ConjuntoNikeTechFleece/cinza.png"
+        ]
+      },
+       { 
+        "cor": "#e3e4de", 
+        "fotos": [
+         "assets/imagens/produtos/Conjuntos/ConjuntoNikeTechFleece/branco.png"
+        ]
+      },
+       { 
+        "cor": "black", 
+        "fotos": [
+         "assets/imagens/produtos/Conjuntos/ConjuntoNikeTechFleece/preto.png"
+        ]
+      },
+       { 
+        "cor": "red", 
+        "fotos": [
+         "assets/imagens/produtos/Conjuntos/ConjuntoNikeTechFleece/red.png"
+        ]
+      },
+       { 
+        "cor": "#d4bd94", 
+        "fotos": [
+         "assets/imagens/produtos/Conjuntos/ConjuntoNikeTechFleece/khaki.png"
+        ]
+      },
+       { 
+        "cor": "#fb5612", 
+        "fotos": [
+         "assets/imagens/produtos/Conjuntos/ConjuntoNikeTechFleece/orange.png"
+        ]
+      },
+       { 
+        "cor": "#807d76", 
+        "fotos": [
+         "assets/imagens/produtos/Conjuntos/ConjuntoNikeTechFleece/verdemusgo.png"
+        ]
+      },
+       { 
+        "cor": "#96bee1", 
+        "fotos": [
+         "assets/imagens/produtos/Conjuntos/ConjuntoNikeTechFleece/skyblue.png"
+        ]
+      },
+       { 
+        "cor": "#58b1dd", 
+        "fotos": [
+         "assets/imagens/produtos/Conjuntos/ConjuntoNikeTechFleece/lakeBlue.png"
+        ]
+      },
+       { 
+        "cor": "#2d2b39", 
+        "fotos": [
+         "assets/imagens/produtos/Conjuntos/ConjuntoNikeTechFleece/navyBlue.png"
+        ]
+      },
+       { 
+        "cor": "blue", 
+        "fotos": [
+         "assets/imagens/produtos/Conjuntos/ConjuntoNikeTechFleece/blue.png"
+        ]
+      },
+       { 
+        "cor": "#774a2f", 
+        "fotos": [
+         "assets/imagens/produtos/Conjuntos/ConjuntoNikeTechFleece/marrom.png"
+        ]
+      },
+       { 
+        "cor": "#dbdad5", 
+        "fotos": [
+         "assets/imagens/produtos/Conjuntos/ConjuntoNikeTechFleece/brancoecinza.png"
+        ]
+      },
+       { 
+        "cor": "#892e41", 
+        "fotos": [
+         "assets/imagens/produtos/Conjuntos/ConjuntoNikeTechFleece/vermelhoeazul.png"
+        ]
+      },
+       { 
+        "cor": "#afa683", 
+        "fotos": [
+         "assets/imagens/produtos/Conjuntos/ConjuntoNikeTechFleece/khakiebranco.png"
+        ]
+      },
+       { 
+        "cor": "#5b5d5c", 
+        "fotos": [
+         "assets/imagens/produtos/Conjuntos/ConjuntoNikeTechFleece/Darkcinzaewhite.png"
+        ]
+      },
+       { 
+        "cor": "#648dc3", 
+        "fotos": [
+         "assets/imagens/produtos/Conjuntos/ConjuntoNikeTechFleece/whiteeblue.png"
+        ]
+      },
+       { 
+        "cor": "#1d2027", 
+        "fotos": [
+         "assets/imagens/produtos/Conjuntos/ConjuntoNikeTechFleece/pretoeDarkCinza.png"
+        ]
+      },
+      { 
+        "cor": "#cbcac8", 
+        "fotos": [
+         "assets/imagens/produtos/Conjuntos/ConjuntoNikeTechFleece/pretoeCinza.png"
+        ]
+      }
+    ]
+    }
+      
    
 
      
